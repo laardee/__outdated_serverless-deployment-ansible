@@ -1,3 +1,9 @@
+OUTDATED -> Moved to https://github.com/sc5/serverless-deployment-ansible
+
+
+
+
+
 # Ansible Playbook for Serverless Framework
 
 Example [Ansible](https://github.com/ansible/ansible) playbook for deploying [Serverless](https://github.com/serverless/serverless) service.
